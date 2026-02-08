@@ -4,8 +4,8 @@
 # Version: 3.0.0
 
 echo "╔══════════════════════════════════════════╗"
-echo "║   Alprojeck WhatsApp Bot - Installer    ║"
-echo "║            Version 3.0.0                 ║"
+echo "║   Morela WhatsApp Bot - Installer    ║"
+echo "║            Version 2.0.0                 ║"
 echo "╚══════════════════════════════════════════╝"
 echo ""
 
