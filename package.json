@@ -1,0 +1,52 @@
+{
+  "name": "morela-bot",
+  "version": "2.0.0",
+  "description": "WhatsApp Bot Base with Button Support",
+  "main": "utama.js",
+  "type": "module",
+  "scripts": {
+    "start": "node utama.js"
+  },
+  "author": "Morela",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@hapi/boom": "^10.0.1",
+    "@itsukichan/baileys": "^7.3.2",
+    "archiver": "^5.3.1",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.6.8",
+    "canvas": "^2.11.2",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.0.0-rc.12",
+    "file-type": "^19.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.2.0",
+    "human-readable": "^0.2.1",
+    "javascript-obfuscator": "^4.0.0",
+    "jimp": "^0.22.12",
+    "jsdom": "^24.0.0",
+    "lodash": "^4.17.21",
+    "lowdb": "^7.0.1",
+    "moment-timezone": "^0.5.45",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^3.3.2",
+    "node-webpmux": "^3.1.1",
+    "ocr-space-api-wrapper": "^2.3.2",
+    "parse-ms": "^2.1.0",
+    "perf_hooks": "0.0.1",
+    "performance-now": "^2.1.0",
+    "pino": "^8.19.0",
+    "qrcode-terminal": "^0.12.0",
+    "sharp": "^0.33.4",
+    "spinnies": "^0.5.1",
+    "undici": "^6.6.1",
+    "youtube-dl-exec": "^3.0.4",
+    "yt-search": "^2.10.4"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
