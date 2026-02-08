@@ -1,5 +1,5 @@
 {
-  "name": "morela-bot",
+  "name": "morela-v2",
   "version": "2.0.0",
   "description": "WhatsApp Bot Base with Button Support",
   "main": "utama.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node utama.js"
   },
-  "author": "Morela",
+  "author": "MorelaXz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
