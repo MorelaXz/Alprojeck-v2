@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Alprojeck Bot Installation Script
-# Version: 3.0.0
+# Version: 2.0.0
 
 echo "╔══════════════════════════════════════════╗"
 echo "║   Morela WhatsApp Bot - Installer    ║"
